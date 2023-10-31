@@ -1,13 +1,13 @@
 # 🌀 HASURO
 
-## 👁️‍🗨️ GitHub Status
+## 👁️‍🗨️　GitHub Status
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inoren-ten&layout=compact&count_private=true&show_icons=true&theme=transparent" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=inoren-ten&count_private=true&show_icons=true&show_icons=true&theme=transparent" />
 </p>
 
-## 🦾 My Skills
+## 🦾　Skills I've used
 
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/></a>
@@ -31,5 +31,5 @@
   <a href="#"><img src="https://img.shields.io/badge/Premire Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/After Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white"/></a>v
+  <a href="#"><img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white"/></a>
 </p>
