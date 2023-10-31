@@ -28,6 +28,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Ruby on Rails-D30001?style=flat&logo=rubyonrails&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Premire Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/After Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white"/></a>
