@@ -19,6 +19,7 @@
   <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white"/></a>
@@ -30,4 +31,5 @@
   <a href="#"><img src="https://img.shields.io/badge/Premire Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/After Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white"/></a>v
 </p>
