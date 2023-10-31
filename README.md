@@ -9,7 +9,7 @@
 
 ## 🦾 My Skills
 
-<p align="center">
+<p align="left">
   <a href="#"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white"/></a>
