@@ -31,5 +31,6 @@
   <a href="#"><img src="https://img.shields.io/badge/Premire Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/After Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white"/></a>
 </p>
