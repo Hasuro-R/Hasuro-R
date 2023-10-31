@@ -1,13 +1,13 @@
 # 🌀 HASURO
 
-## 👁️‍🗨️　GitHub Status
+## 👁️‍🗨️ GitHub Status
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inoren-ten&layout=compact&count_private=true&show_icons=true&theme=transparent" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=inoren-ten&count_private=true&show_icons=true&show_icons=true&theme=transparent" />
 </p>
 
-## 🦾　Skills I've used
+## 🦾 Skills I've used
 
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/></a>
