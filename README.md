@@ -14,6 +14,7 @@
   <a href="#"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/styled-components-DB7093?style=flat&logo=styledcomponents&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white"/></a>
