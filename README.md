@@ -1,7 +1,7 @@
 # 🌀 HASURO
 ![hasuro_animation](https://github.com/inoren-ten/inoren-ten/assets/116473325/bbec643c-1bd2-4e78-b5b4-a2cff96157b6)
 
-## 👁️‍🗨️ GitHub Status
+## 👁️‍🗨️ GitHub Status (without private)
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inoren-ten&layout=compact&count_private=true&show_icons=true&theme=transparent&&hide=cmake,c%2B%2B" />
