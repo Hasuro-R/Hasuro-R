@@ -21,6 +21,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white"/></a>
@@ -38,4 +39,5 @@
   <a href="#"><img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/></a>
 </p>
