@@ -8,7 +8,11 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=inoren-ten&count_private=true&show_icons=true&show_icons=true&theme=transparent" />
 </p>
 
-## 🦾 Tech I've used
+## 🦾 Tech I often use
+
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,flutter,rails,ts,js,dart,ruby&perline=)](https://skillicons.dev)
+
+## 💪 Tech I've used
 
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/></a>
