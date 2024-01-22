@@ -33,6 +33,10 @@
   <a href="#"><img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/p5.js-ED225D?style=flat&logo=p5dotjs&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodejs&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/rollup.js-EC4A3F?style=flat&logo=rollupdotjs&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Biome-60A5FA?style=flat&logo=biome&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
