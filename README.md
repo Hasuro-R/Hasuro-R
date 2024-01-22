@@ -35,9 +35,10 @@
   <a href="#"><img src="https://img.shields.io/badge/p5.js-ED225D?style=flat&logo=p5dotjs&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/webpack-8DD6F9?style=flat&logo=webpack&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/rollup.js-EC4A3F?style=flat&logo=rollupdotjs&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/babel-F9DC3E?style=flat&logo=babel&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Biome-60A5FA?style=flat&logo=biome&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white"/></a>
@@ -45,6 +46,7 @@
   <a href="#"><img src="https://img.shields.io/badge/After Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white"/></a>
 </p>
