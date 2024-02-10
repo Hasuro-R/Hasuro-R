@@ -42,6 +42,8 @@
   <a href="#"><img src="https://img.shields.io/badge/webpack-8DD6F9?style=flat&logo=webpack&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/rollup.js-EC4A3F?style=flat&logo=rollupdotjs&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/babel-F9DC3E?style=flat&logo=babel&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/eslint-4B32C3?style=flat&logo=eslint&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/prettier-F7B93E?style=flat&logo=prettier&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Biome-60A5FA?style=flat&logo=biome&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
