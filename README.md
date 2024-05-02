@@ -32,6 +32,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Ruby on Rails-D30001?style=flat&logo=rubyonrails&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Sinatra-000000?style=flat&logo=rubysinatra&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black"/></a>
   <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/></a>
@@ -50,8 +51,13 @@
   <a href="#"><img src="https://img.shields.io/badge/eslint-4B32C3?style=flat&logo=eslint&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/prettier-F7B93E?style=flat&logo=prettier&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Biome-60A5FA?style=flat&logo=biome&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Ant Design-0170FE?style=flat&logo=antdesign&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/rspec-ed4660?style=flat&logo=undertale&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Premire Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/After Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white"/></a>
