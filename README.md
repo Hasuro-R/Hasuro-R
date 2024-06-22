@@ -25,6 +25,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/C＃-512BD4?style=flat&logo=csharp&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/></a>
