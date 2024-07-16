@@ -38,7 +38,7 @@
   <a href="#"><img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white"/></a>  
   <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/PlanetScale-000000?style=flat&logo=planetscale&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white"/></a>
