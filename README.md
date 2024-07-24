@@ -53,10 +53,11 @@
   <a href="#"><img src="https://img.shields.io/badge/eslint-4B32C3?style=flat&logo=eslint&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/prettier-F7B93E?style=flat&logo=prettier&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Biome-60A5FA?style=flat&logo=biome&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Rubocop-000000?style=flat&logo=rubocop&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Ant Design-0170FE?style=flat&logo=antdesign&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/rspec-ed4660?style=flat&logo=undertale&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/rspec-ed4660?style=flat&logo=rubygems&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white"/></a>
