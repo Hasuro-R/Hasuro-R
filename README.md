@@ -10,7 +10,8 @@
 
 ## 🦾 Tech I often use
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,flutter,rails,ts,js,dart,ruby&perline=)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,flutter,rails,swift&perline=)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,dart,ruby,go&perline=)](https://skillicons.dev)
 
 ## 💪 Tech I've used
 
@@ -32,6 +33,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/SwiftUI-0074F4?style=flat&logo=swift&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Ruby on Rails-D30001?style=flat&logo=rubyonrails&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Sinatra-000000?style=flat&logo=rubysinatra&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black"/></a>
