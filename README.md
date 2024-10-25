@@ -1,5 +1,4 @@
 # 😶‍🌫️ HASURO
-@Hausro-R
 ![hasuro_animation](https://github.com/inoren-ten/inoren-ten/assets/116473325/bbec643c-1bd2-4e78-b5b4-a2cff96157b6)
 
 ## 👁️‍🗨️ GitHub Status (without private)
@@ -33,6 +32,7 @@
   <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/SwiftUI-0074F4?style=flat&logo=swift&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Ruby on Rails-D30001?style=flat&logo=rubyonrails&logoColor=white"/></a>
