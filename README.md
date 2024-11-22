@@ -52,6 +52,7 @@
   <a href="#"><img src="https://img.shields.io/badge/p5.js-ED225D?style=flat&logo=p5dotjs&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/webpack-8DD6F9?style=flat&logo=webpack&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/rollup.js-EC4A3F?style=flat&logo=rollupdotjs&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/babel-F9DC3E?style=flat&logo=babel&logoColor=white"/></a>
