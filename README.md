@@ -1,4 +1,4 @@
-# 😶‍🌫️ HASURO
+# 🌀 HASURO
 ![hasuro_animation](https://github.com/inoren-ten/inoren-ten/assets/116473325/bbec643c-1bd2-4e78-b5b4-a2cff96157b6)
 
 ## 👁️‍🗨️ GitHub Status (without private)
