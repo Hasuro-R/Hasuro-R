@@ -33,6 +33,8 @@
   <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=nuxt&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/SwiftUI-0074F4?style=flat&logo=swift&logoColor=white"/></a>
