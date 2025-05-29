@@ -56,6 +56,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Hono.js-E36002?style=flat&logo=hono&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/pnpm-F69220?style=flat&logo=pnpm&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/webpack-8DD6F9?style=flat&logo=webpack&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/rollup.js-EC4A3F?style=flat&logo=rollupdotjs&logoColor=white"/></a>
