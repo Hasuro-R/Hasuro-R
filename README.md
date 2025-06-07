@@ -51,6 +51,7 @@
   <a href="#"><img src="https://img.shields.io/badge/PlanetScale-000000?style=flat&logo=planetscale&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/p5.js-ED225D?style=flat&logo=p5dotjs&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/></a>
