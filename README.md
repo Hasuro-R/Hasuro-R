@@ -69,6 +69,7 @@
   <a href="#"><img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Ant Design-0170FE?style=flat&logo=antdesign&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/rspec-ed4660?style=flat&logo=rubygems&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white"/></a>
